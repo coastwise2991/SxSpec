@@ -2,7 +2,7 @@
 ### M5Stack CardputerADV + SX1262 LoRa Addon | ESP-IDF C
 
 A real-time RF waterfall spectrogram that sweeps 862–928 MHz in a 5 MHz span,
-displaying signal strength as a scrolling heatmap on the Cardputer's 240×135 ST7789V2 LCD.
+displaying signal strength utilizing the sx1262 rf chip.
 
 ---
 
